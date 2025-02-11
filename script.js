@@ -23,15 +23,13 @@ setInterval(createFloatingLoves, 1000);
 
 // Function to handle the "No" button click
 const messages = [
-    "No??",
-    "You don't like me?",
-    "Like Really???",
-    "Please accept naaa....",
-    "Pleaseeeeee.......",
-    "Come on just click yes :(",
-    "Aaaa accept naaa....",
-    "Fine you win :(",
-    "Just kidding, say yes please! ❤"
+    "Are you sure?",
+    "Didn't even reconsidered??",
+    "I'll give you one more chance..",
+    "Ahh I'm disappointed in you",
+    "You just lost in life :)",
+    "Take care, bye bye"),
+    "Just kidding, click the yes now")
 ];
 
 let messageIndex = 0;
