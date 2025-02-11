@@ -29,7 +29,7 @@ const messages = [
     "Ahh I'm disappointed in you",
     "You just lost in life :)",
     "Take care, bye bye"),
-    "Just kidding, click the yes now")
+    "Just kidding, click the yes now");
 ];
 
 let messageIndex = 0;
