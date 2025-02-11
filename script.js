@@ -28,8 +28,8 @@ const messages = [
     "I'll give you one more chance..",
     "Ahh I'm disappointed in you",
     "You just lost in life :)",
-    "Take care, bye bye"),
-    "Just kidding, click the yes now");
+    "Take care, bye bye",
+    "Just kidding, click the yes now"
 ];
 
 let messageIndex = 0;
